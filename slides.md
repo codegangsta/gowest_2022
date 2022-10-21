@@ -11,7 +11,7 @@ slide-transition: true
 slidenumbers: true
 build-lists: true
 
-## **Supercharged**<br>Micro-services with **NATS** and **Go**
+## **NATS:** A next-gen connective fabric
 #### Jeremy Saenz | Synadia
 ---
 
@@ -32,12 +32,8 @@ build-lists: true
 ![inline 75%](https://avatars.githubusercontent.com/u/178316?v=4)
 
 ---
-# Pray to the Demo Gods
 
----
-
-### Lecture:
-## Rethinking Connectivity
+# Rethink Connectivity
 
 ---
 
@@ -107,7 +103,6 @@ It aims to **simplify** the number of technologies you use for your services to 
 
 ---
 
-### Lecture:
 ## NATS For Micro-service Architectures
 
 ---
@@ -118,15 +113,6 @@ It aims to **simplify** the number of technologies you use for your services to 
 - Observable
 - Extensible
 - Adaptive to change
-
-___
-
-# NATS for Micro-service Architectures
-- Resilience
-- Secure multi-tenancy
-- Location transparency
-- Observability
-- Multi-pattern development
 
 ___
 
@@ -180,7 +166,6 @@ ___
 
 ___
 
-### Lecture:
 ## NATS Server Topologies
 
 ---
@@ -192,8 +177,7 @@ ___
 
 ---
 
-### Lecture:
-## What is JetStream?
+# What is JetStream?
 
 ---
 
