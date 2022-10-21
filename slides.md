@@ -3,8 +3,7 @@ footer: @thecodegangsta
 background-color: #1E1E1E
 text: #A7ADB2, alignment(left), line-height(0.95), Inter
 header: #ECEDEE, alignment(left), line-height(1), Inter Extra Bold
-text-strong: #FFFFFF, Inter Bold
-header-strong: #32C9BF
+text-strong: #FFFFFF, Inter Bold header-strong: #32C9BF
 list: bullet-character(•)
 theme: Fira, 5
 slide-transition: true
@@ -200,6 +199,16 @@ It is multi-tenant, highly configurable and globally scalable.
 ## JetStream Demo
 
 ---
+
+**nats-whiteboard.onrender.com/?room=gowest**
+
+---
+
+# Resources
+
+- https://nats.io
+- https://rethink.synadia.com
+- https://natsbyexample.com
 
 **nats-whiteboard.onrender.com/?room=gowest**
 
